@@ -15,3 +15,5 @@ if (!defined('DB_HOST')) {
         PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC
     ]);
 }
+
+//hola este es un comentario
